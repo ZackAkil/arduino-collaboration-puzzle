@@ -21,7 +21,7 @@ These pictures also appear in the "*Clues*" section on the instruction sheet.
 
 **THE TWIST CONTINUES**, the pictures you might be looking for may be on another team's sheet.
 
-You have to ask the other team if they have the picture you’re looking for (you are not allowed to just peek at other teams sheets).
+You have to ask the other team if they have the picture you’re looking for (*you are not allowed to just peek at other teams sheets*).
 
 Eventually if you communicate well enough and wire the Arduino correctly you will see a fast flashing light on the board indicating that you have solved the puzzle.
 
